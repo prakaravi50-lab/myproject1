@@ -1,1 +1,2 @@
-This text file is used for readme file for new changes
+This text file is used for readme file for new changes 
+This changes has been added from github
